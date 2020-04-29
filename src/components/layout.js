@@ -20,7 +20,7 @@ export default ({ children }) => (
     </header>
     {children}
     <footer style={{ textAlign: `center` }}>
-      <p>👩‍💻 Developed by Tamires Santos</p>
+      <p><span role="img" aria-label="coding">👩‍💻</span> Developed by Tamires Santos</p>
     </footer>
   </div>
 )
